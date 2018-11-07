@@ -1,6 +1,4 @@
-This is a chrome browser extension can copy tab url and title with format.
+A Chrome extension provides a function copy page url and title with markdown format.
 
-## TODO
-- update for new extension api.
-- add config function with popup(?).
-- distribute to chrome store.
+## NOTE
+- さすがに古い
